@@ -4,8 +4,10 @@ More info at [jamesyoung.ch](https://jamesyoung.ch).
 
 -----
 
+#### Public Packages:
+
+My public JavaScript and TypeScript packages are published to NPM, in my [@jych](https://www.npmjs.com/~jych) scope.
+
 #### Presentations:
 
-- 3apedia 2023: [Next.js app router](https://github.com/jamescallumyoung/3apedia2023-presentation-nextjs-app-router)
-- Project demo: [SENS](https://github.com/jamescallumyoung/3aptimes-presentation-sens)
-- 3apedia 2022: [AXA Pods](https://github.com/jamescallumyoung/3apedia2022-presentation-axa-pods-npm)
+I have delivered a number of presentations on technical topics. These can found in my [presentations](https://github.com/jamescallumyoung-presentations) collection.
