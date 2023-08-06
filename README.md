@@ -10,4 +10,4 @@ My public JavaScript and TypeScript packages are published to NPM, in my [@jych]
 
 #### Presentations:
 
-I have delivered a number of presentations on technical topics. These can found in my [presentations](https://github.com/jamescallumyoung-presentations) collection.
+I have delivered a number of presentations on technical topics. These can be found in my [presentations](https://github.com/jamescallumyoung-presentations) collection.
