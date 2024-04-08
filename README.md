@@ -4,9 +4,9 @@ More info at [jamesyoung.ch](https://jamesyoung.ch).
 
 -----
 
-#### Public Packages:
+#### NPM Packages:
 
-My public JavaScript and TypeScript packages are published to NPM, in my [@jych](https://www.npmjs.com/~jych) scope.
+My public JavaScript and TypeScript packages are published to NPM: [@jych on npmjs.org](https://www.npmjs.com/~jych).
 
 #### Presentations:
 
